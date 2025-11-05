@@ -3,8 +3,8 @@
 This repository contains photographs documenting the locations of utterances indicating behavioral events analyzed in the paper "Divergent Environmental Evaluation Patterns in Immersive Virtual vs. Physical Outdoor Environments: Towards Informing Architectural Design in VR".
 
 ## Folder Structure
-- `/Physical_Environment/`: Photos from the real-world Odaiba Park, taken at moment of utterance. each photo is captioned with its corrosponding verbal protocol.
-- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. each photo is captioned with its corrosponding verbal protocol.
+- `/Physical_Environment/`: Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol.
+- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol.
 
 ## Event Categories
 - **Failure_Events**: Participants' unsuccessful actions and perceived failures
