@@ -3,8 +3,8 @@
 This repository contains photographs documenting the locations of utterances indicating behavioral events analyzed in the paper "Divergent Environmental Evaluation Patterns in Immersive Virtual vs. Physical Outdoor Environments: Towards Informing Architectural Design in VR".
 
 ## Folder Structure
-- `/Physical_Environment/`: Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol.
-- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol.
+- `/Physical_Environment/`: (1) Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) /BDI_Strings/: This folder contains the high resolution version the BDI strings and movement maps of each physical park participant, referenced in Figure 5.
+- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) /BDI_Strings/: This folder contains the high resolution version the BDI strings and movement maps of each virtual park participant, referenced in Figure 5.
 
 ## Event Categories
 - **Failure_Events**: Participants' unsuccessful actions and perceived failures
@@ -17,6 +17,8 @@ This repository contains photographs documenting the locations of utterances ind
 ## Naming Convention
 Photos follow this format: `[PS or IVE]_[EventType]_[ParticipantID]_[Count].png`
 Example: `PS_Failure_P1_01.png`
+BDI Strings follow this format: `[ParticipantID]`
+Example: `P1`
 
 ## Correspondence with Paper
 Refer to Figure 5 in the main paper for event frequency and spatial mapping data.
