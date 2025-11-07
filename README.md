@@ -1,4 +1,4 @@
-# Supplementary Photographic Data: Behavioral Events in Odaiba Park Experiment
+# Supplementary Photographic Data: Behavioral Events in Daiba Park Experiment
 
 This repository contains photographs documenting the locations of utterances indicating behavioral events analyzed in the paper "**Divergent Environmental Evaluation Patterns in Immersive Virtual vs. Physical Outdoor Environments: Towards Informing Architectural Design in VR**".
 
