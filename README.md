@@ -15,9 +15,9 @@ This repository contains suplimentary information and photographs documenting th
 - **There are no observed "Reward_Amplification" events in physical space**
   
 ## Naming Convention
-Photos follow this format: `[PS or IVE]_[EventType]_[ParticipantID]_[Count].png`
+- Photos follow this format: `[PS or IVE]_[EventType]_[ParticipantID]_[Count].png`
 Example: `PS_Failure_P1_01.png`
-BDI Strings follow this format: `[ParticipantID]`
+- BDI Strings follow this format: `[ParticipantID]`
 Example: `P1`
 
 ## Correspondence with Paper
