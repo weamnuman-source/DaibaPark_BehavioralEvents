@@ -3,8 +3,8 @@
 This repository contains suplimentary information and photographs documenting the locations of utterances indicating behavioral events analyzed in the paper "**Divergent Environmental Evaluation Patterns in Immersive Virtual vs. Physical Outdoor Environments: Towards Informing Architectural Design in VR**".
 
 ## Folder Structure
-- `/Physical_Environment/`: (1) Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) /BDI_Strings/: This folder contains the high resolution version the BDI strings and movement maps of each physical park participant, referenced in Figure 8.
-- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) /BDI_Strings/: This folder contains the high resolution version the BDI strings and movement maps of each virtual park participant, referenced in Figure 8.
+- `/Physical_Environment/`: (1) Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) `/BDI_Strings/`: This folder contains the high resolution version the BDI strings and movement maps of each physical park participant, referenced in Figure 8.
+- `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) `/BDI_Strings/`: This folder contains the high resolution version the BDI strings and movement maps of each virtual park participant, referenced in Figure 8.
 
 ## Event Categories
 - **Failure_Events**: Participants' unsuccessful actions and perceived failures
