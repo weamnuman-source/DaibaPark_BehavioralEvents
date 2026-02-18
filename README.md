@@ -5,7 +5,7 @@ This repository contains suplimentary information and photographs documenting th
 ## Folder Structure
 - `/Physical_Environment/`: (1) Photos from the real-world Odaiba Park, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) `/BDI_Strings/`: This folder contains the high resolution version the BDI strings and movement maps of each physical park participant, referenced in Figure 8.
 - `/Immersive_Virtual_Environment/`: Screenshots from the Unreal Engine replica, taken at moment of utterance. Each photo is captioned with its corrosponding verbal protocol. (2) `/BDI_Strings/`: This folder contains the high resolution version the BDI strings and movement maps of each virtual park participant, referenced in Figure 8.
-
+- `/BDI Coding Example/`: Detailed example of BDI coding, and the steps to transform a participant utterance to the BDI string, and locating the risk perception events. Please refer to the BDI coding system explained in data analysis section of paper.
 ## Event Categories
 - **Failure_Events**: Participants' unsuccessful actions and perceived failures
 - **Risk_Amplification**: Locations where users overestimated environmental threats
@@ -22,3 +22,4 @@ Example: `P1`
 
 ## Correspondence with Paper
 Refer to Figure 8 in the paper for event frequency and spatial mapping data.
+Refer to section (2.4. Data Analysis framework) for the BDI coding system.
